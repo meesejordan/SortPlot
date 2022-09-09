@@ -4,7 +4,7 @@ See Sorting algoritms work in real-time.
 
 ## Description
 
-See sorting algorithms work in real-time with the help of the Python programming language, the Matplotlib plotting library and the NumPy numerical mathematics extenion.
+See sorting algorithms work in real-time with the help of the Python programming language, the Matplotlib plotting library and the NumPy numerical mathematics extension.
 
 ## Getting Started
 
