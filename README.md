@@ -54,7 +54,7 @@ Known issue:
 
 Contributors names and contact info
 
-[@JordanMeese](jordanmeese.tech)
+[@JordanMeese](www.jordanmeese.tech)
 
 ## Version History
 
