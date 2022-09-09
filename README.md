@@ -30,7 +30,7 @@ usage: sortplot.py [-h] [-n N] [-alg ALG] [-s S]
     -   -h, --help show this help message and exit
     -   -n N define the number of random integers.
         -   Default is 100
-    -   alg ALG define the sorting algorithm.
+    -   -alg ALG define the sorting algorithm.
         -   Default is bubblesort.
         -   Options: - 'bbs': BubbleSort, 'qs': QuickSort, 'ss': SelectionSort, 'is': InsertionSort
     -   -s S define how fast the display is. Lower is faster.
